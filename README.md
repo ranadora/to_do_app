@@ -1,16 +1,25 @@
-# to_do_app
 
-A new Flutter project.
+To-Do App
 
-## Getting Started
+A simple task management application built with Flutter and Dart. The app allows users to manage their daily tasks through a simple and user-friendly interface.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+* Add new tasks.
+* Delete existing tasks.
+* Select tasks.
+* Manage application state using Cubit.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Cubit (State Management)
+
+Screenshots
+
+
+
+Developer
+
+Rana Zaghlol Dora
